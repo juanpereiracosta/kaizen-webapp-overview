@@ -4,11 +4,9 @@ Central repository linking the frontend and backend API repositories for the log
 
 ## Repositories
 
-- [Frontend]: (https://github.com/seu-usuario/kaizen-logistics-frontend-vue-typescript)  
-Frontend application built with Vue 3, Nuxt 3, Vuetify, and TypeScript. Handles project, layout, and simulation management with Excel uploads.
+- [Frontend](https://github.com/seu-usuario/kaizen-logistics-frontend-vue-typescript) : built with Vue 3, Nuxt 3, Vuetify, and TypeScript. Handles project, layout, and simulation management with Excel uploads.
 
-- [Backend API]: (https://github.com/seu-usuario/kaizen-logistics-api-adonis-typescript-postgresql)  
-Backend API built with AdonisJS, TypeScript, and PostgreSQL. Manages data storage, validation, and RESTful endpoints for the logistics app.
+- [Backend API](https://github.com/seu-usuario/kaizen-logistics-api-adonis-typescript-postgresql) : built with AdonisJS, TypeScript, and PostgreSQL. Manages data storage, validation, and RESTful endpoints for the logistics app.
 
 ## Overview
 
